@@ -1,0 +1,17 @@
+*{
+	font-size: 35px;
+	word-spacing: 5px;
+}
+body{
+	background: url(https://i.gifer.com/1zej.gif), rgba(255,255,255,0.7);
+	background-blend-mode: color;
+	background-size: cover;
+	background-position-y: 25%;
+}
+button{
+	width: 50%;
+	margin: 50px;
+}
+p{
+	margin: 50px;
+}
